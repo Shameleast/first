@@ -1,0 +1,1 @@
+The three programs included are 6, 8, and 10 in this order 6 makes a line of lightning into the bottom left corner, 8 creates 2 images one with a fixed location and one that follows the position of the mouse it also reads off text _why the hell does the image never load I followed the examples and everything I am baffled_, 10 plays 3 videos of the ocean
